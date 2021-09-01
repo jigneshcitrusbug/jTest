@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1446px" height="900px" viewBox="0 0 1446 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>PHP</title>
+    <defs>
+        <polygon id="path-1" points="1446 0 1446 900 0 900 0 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#515C8A" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g mask="url(#mask-2)" fill="#FFFFFF" fill-opacity="0.0638385052" stroke="#515C8A" stroke-width="21">
+                <g transform="translate(685.576448, 399.505320) rotate(-15.000000) translate(-685.576448, -399.505320) translate(-650.107133, -953.544615)">
+                    <rect id="Rectangle" transform="translate(2053.806491, 688.964685) rotate(-28.000000) translate(-2053.806491, -688.964685) " x="1563.73762" y="264.964685" width="980.137741" height="848" rx="22"></rect>
+                    <rect id="Rectangle-Copy-7" transform="translate(617.560671, 2115.857093) rotate(-28.000000) translate(-617.560671, -2115.857093) " x="127.491801" y="1691.85709" width="980.137741" height="848" rx="22"></rect>
+                    <rect id="Rectangle-Copy-3" transform="translate(785.128445, 590.242777) rotate(-28.000000) translate(-785.128445, -590.242777) " x="295.059574" y="166.242777" width="980.137741" height="848" rx="22"></rect>
+                    <rect id="Rectangle-Copy-2" transform="translate(1643.917643, 806.202353) rotate(-28.000000) translate(-1643.917643, -806.202353) " x="1363.18899" y="562.702353" width="561.4573" height="487" rx="22"></rect>
+                    <rect id="Rectangle-Copy-8" transform="translate(1622.622105, 2129.790847) rotate(-28.000000) translate(-1622.622105, -2129.790847) " x="1341.89346" y="1886.29085" width="561.4573" height="487" rx="22"></rect>
+                    <rect id="Rectangle-Copy-4" transform="translate(917.044319, 1780.264041) rotate(-28.000000) translate(-917.044319, -1780.264041) " x="763.891427" y="1646.76404" width="306.305785" height="267" rx="22"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

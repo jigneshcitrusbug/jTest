@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.408" height="21.408" viewBox="0 0 21.408 21.408">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 1.8px;
+      }
+    </style>
+  </defs>
+  <g id="instagram" transform="translate(0.9 0.9)">
+    <rect id="Rectangle" class="cls-1" width="19.608" height="19.608" rx="4.167"/>
+    <path id="Path" class="cls-1" d="M7.8,3.347A3.922,3.922,0,1,1,4.5.043,3.922,3.922,0,0,1,7.8,3.347Z" transform="translate(5.925 5.84)"/>
+    <path id="Path-2" data-name="Path" class="cls-1" d="M.485.49H.5" transform="translate(14.711 3.922)"/>
+  </g>
+</svg>

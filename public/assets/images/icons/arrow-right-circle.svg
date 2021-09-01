@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>arrow-right-circle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Minimal3-Copy-25" transform="translate(-1389.000000, -18.000000)" stroke="#EFF5F7" stroke-width="0.8">
+            <g id="Group-6" transform="translate(1380.000000, 0.000000)">
+                <g id="Icon/arrow-right-circle-(1)" style="mix-blend-mode: difference;" transform="translate(10.000000, 19.000000)">
+                    <g id="arrow-right-circle">
+                        <g id="Group-6">
+                            <circle id="Oval" cx="20" cy="20" r="20"></circle>
+                            <polyline id="Path" points="20 28 28 20 20 12"></polyline>
+                            <line x1="12" y1="20" x2="28" y2="20" id="Path"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

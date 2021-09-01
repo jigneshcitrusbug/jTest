@@ -1,0 +1,89 @@
+.customizer {
+    .customizer-toggle{
+        top:auto; 
+        bottom: 0;
+    }
+}
+.card {
+    font-size: 1.5rem;
+}
+.panel {
+    background-color: transparent;
+    margin-bottom: 20px;
+    .btn-default{
+        background-color: transparent;
+        border: 1px solid;
+    }
+    .panel-footer{
+        background-color: transparent;
+        padding: 15px;
+    }
+    .input-group-btn{
+        border: 1px solid;
+    }
+}
+.panel-primary {
+    .panel-heading{
+        border-color: transparent;
+        background-color: transparent;
+        padding: 12px;
+    }
+}
+
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: transparent;
+    border-color: #ddd;
+}
+
+body.layout-dark.layout-transparent .form-control select#target option {
+    background-color: rgba(0, 0, 0, 0.15) !important;
+    border-color: #FFFFFF !important;
+    color: #000 !important;
+}
+
+.popover{
+    background-color: #000;
+    .btn-default{
+        background-color: #000;
+    }
+}
+
+body.layout-dark.layout-transparent div.phpdebugbar *{
+    color: #000 !important; 
+}
+
+ 
+
+body.layout-transparent .cke_top, 
+body.layout-transparent .cke_wysiwyg_frame, 
+body.layout-transparent .cke_wysiwyg_div,
+body.layout-transparent .cke_bottom,
+body.layout-transparent .cke_dialog_contents,
+body.layout-transparent a.cke_dialog_ui_button {
+    border-color : rgba(255, 255, 255, 0.3);
+    background-color : rgba(0, 0, 0, 0.2) !important;
+}  
+ 
+
+body.layout-dark .cke_top, 
+body.layout-dark .cke_wysiwyg_frame, 
+body.layout-dark .cke_wysiwyg_div,
+body.layout-dark .cke_bottom,
+body.layout-dark .cke_dialog_contents,
+body.layout-dark a.cke_dialog_ui_button {
+    border-color : rgba(0, 0, 0,0.8);
+    background-color : rgba(0, 0, 0,0.4) !important;
+}  
+  
+
+.row.buttons .col-sm-12{ 
+    display: flex;
+    align-items: center;   
+    justify-content: flex-start;
+    .dt-buttons { 
+        display: flex;
+        justify-content: center;  
+        margin-right: 15px;
+    } 
+}

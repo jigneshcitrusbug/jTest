@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="850px" viewBox="0 0 20 850" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>arrow-verticle-line</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow-verticle-line" transform="translate(6.000000, 2.000000)">
+            <line x1="-78" y1="80" x2="82" y2="80" id="Line-4-Copy" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="square" transform="translate(2.000000, 80.000000) rotate(90.000000) translate(-2.000000, -80.000000) "></line>
+            <path id="Line-4" d="M411.366237,411.76289 L412.420628,412.335829 L426.438547,419.952945 L428.368152,421.001461 L426.443491,422.059025 L412.461487,429.741868 L411.409798,430.319751 L410.254031,428.216372 L411.305721,427.638489 L421.169,422.218 L411.872482,422.240187 L-419.006573,424.190607 L-420.206569,424.193424 L-420.212203,421.793431 L-419.012207,421.790614 L411.866848,419.840193 L421.163,419.818 L411.274749,414.444612 L410.220358,413.871672 L411.366237,411.76289 Z" fill="#FFFFFF" fill-rule="nonzero" opacity="0.5"></path>
+        </g>
+    </g>
+</svg>

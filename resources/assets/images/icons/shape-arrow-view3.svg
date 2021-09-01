@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="447px" height="702px" viewBox="0 0 447 702" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>shape-arrow-view3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="533" height="702"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#200000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-" transform="translate(-120.000000, -3020.000000)">
+            <g id="shape-arrow-view3" transform="translate(120.000000, 3020.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g id="Group-8" mask="url(#mask-2)">
+                    <g transform="translate(-345.000000, -342.000000)">
+                        <circle id="Oval" stroke="url(#linearGradient-3)" stroke-width="1" cx="395.5" cy="896.5" r="395.5"></circle>
+                        <circle id="Oval-Copy" stroke="#99A7A8" stroke-width="0.6" cx="508" cy="283" r="283"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

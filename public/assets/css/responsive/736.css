@@ -1,0 +1,65 @@
+@media screen and (max-width: 736px) {
+  p, button, a, li {
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+  }
+  h2 {
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+  h3 {
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+  .banner-section .banner-div .content-div h1 {
+    font-weight: 300;
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+  .banner-section .banner-div .content-div h1 span {
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+  .banner-section .banner-div .content-div h1 a {
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+  .testimonial-section .testimonial-inner .heading-div {
+    padding-left: 0;
+  }
+  .services-section .services-div .services-root .services-box {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .services-section .services-div .services-root .services-box .services-content {
+    padding: 0;
+  }
+  .project-view-section .project-view-div .heading-section h2 {
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+  .project-view-section .project-view-div .heading-section h2 a {
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+  .inner-page .scope-of-work-section .scope-of-work-inner .scope-of-work-heading h2 a {
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .welcome-menu ul li a {
+    font-size: 3rem;
+    line-height: 7.25rem;
+  }
+  #pinContainer #slideContainer .panel {
+    min-height: 410px;
+    max-height: 410px;
+  }
+  .testimonial-section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .about-us-section .about-us-div, .blog-detail-section .blog-detail-info, .blog-detail-section .blog-post-info, .blog-detail-section .blog-subtitle {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}

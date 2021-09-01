@@ -1,0 +1,11 @@
+<svg id="email-24px" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <path id="Path" class="cls-1" d="M0,0H24V24H0Z"/>
+  <path id="Shape" d="M18,16H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0H18a2,2,0,0,1,2,2V14A2,2,0,0,1,18,16ZM2,4V14H18V4L10,9ZM2,2l8,5,8-5Z" transform="translate(2 4)"/>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="320px" viewBox="0 0 320 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>round-arrow-tech</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F79568" offset="0%"></stop>
+            <stop stop-color="#ED5C37" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-" transform="translate(-54.000000, -1479.000000)">
+            <g id="round-arrow-tech" transform="translate(54.000000, 1479.000000)">
+                <circle id="Oval-Copy-2" fill="url(#linearGradient-1)" cx="160" cy="160" r="160"></circle>
+                <path d="M160,20 C237.319865,20 300,82.680135 300,160 C300,237.319865 237.319865,300 160,300 C82.680135,300 20,237.319865 20,160 C20,82.680135 82.680135,20 160,20 Z M149.602306,122.377911 L87.8125,200.46875 C104.722923,180.605333 124.482629,164.168187 152.82851,163.301222 C183.816047,164.321745 207.932725,180.950839 228.90625,199.038738 C203.486312,173.464868 180.532345,147.894197 155.109213,122.323526 C152.493113,119.479497 151.330401,120.707964 149.602306,122.377911 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(160.000000, 160.000000) scale(-1, 1) rotate(90.000000) translate(-160.000000, -160.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

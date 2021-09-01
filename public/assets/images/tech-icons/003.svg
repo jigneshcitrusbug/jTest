@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="55px" viewBox="0 0 55 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>003</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3D403F" offset="0%"></stop>
+            <stop stop-color="#0C0D0B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#EFCE6A" offset="0%"></stop>
+            <stop stop-color="#EFC446" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#EFC446" offset="0%"></stop>
+            <stop stop-color="#E7AC38" offset="46.5936407%"></stop>
+            <stop stop-color="#E2922F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="003" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(0.000000, 1.000000)">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="55" height="54" rx="27"></rect>
+            <g id="Group" transform="translate(8.733108, 12.760274)">
+                <polygon id="Path-3" fill="url(#linearGradient-2)" points="18.7668919 0 0 25.5205479 18.7668919 21.6369863"></polygon>
+                <polygon id="Path-3" fill="url(#linearGradient-3)" transform="translate(28.150338, 12.760274) scale(-1, 1) translate(-28.150338, -12.760274) " points="37.5337838 0 18.7668919 25.5205479 37.5337838 21.6369863"></polygon>
+                <polygon id="Path-4" fill="#FFFFFE" points="18.5810811 22.3767123 1.6722973 25.890411 18.2094595 28.6643836 35.6756757 26.0753425"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

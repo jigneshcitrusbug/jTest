@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="521px" height="701px" viewBox="0 0 521 701" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>shape-arrow-view2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="533" height="702"></rect>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="-" transform="translate(-799.000000, -2198.000000)">
+            <g id="shape-arrow-view2" transform="translate(1053.500000, 2549.000000) scale(-1, 1) translate(-1053.500000, -2549.000000) translate(787.000000, 2198.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask"></g>
+                <g id="Group-8" mask="url(#mask-2)">
+                    <g transform="translate(-381.000000, -170.000000)">
+                        <ellipse id="Oval" stroke="#200000" stroke-width="1" cx="303.856655" cy="576.300439" rx="303.143345" ry="303.300439"></ellipse>
+                        <ellipse id="Oval-Copy" stroke="#99A7A8" stroke-width="0.6" cx="527.341297" cy="373.852339" rx="373.658703" ry="373.852339"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,324 @@
+@media (min-width: 1025px) and (max-width: 1290px) {
+  .container {
+    max-width: 1100px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .project-form .project-inner {
+    padding: 0 100px;
+  }
+  .blog-listing-section .blog-listing-inner .blog-lisiting-all .col-pad-0 {
+    padding: 0;
+    border-right: 1px solid #d7d7d7;
+    border-top: 1px solid #d7d7d7;
+    border-left: 1px solid #d7d7d7;
+    border-bottom: 1px solid #d7d7d7;
+  }
+  .blog-listing-section .blog-listing-inner .blog-lisiting-all .col-pad-0:nth-of-type(1) {
+    margin-top: 0px;
+  }
+  .blog-listing-section .blog-listing-inner .blog-lisiting-all .col-pad-0:nth-of-type(2) {
+    margin-top: 0px;
+  }
+  .blog-listing-section .blog-listing-inner .blog-lisiting-all .col-pad-0:nth-of-type(3) {
+    margin-top: 0px;
+  }
+  .blog-listing-section .blog-listing-inner .blog-lisiting-all .blog-item {
+    padding: 36px 35px;
+    background-color: #ffffff;
+  }
+  .blog-listing-section .blog-listing-inner .blog-lisiting-all .blog-item .blog-body {
+    margin-bottom: 20px;
+  }
+  .blog-listing-section .blog-listing-inner .blog-lisiting-all .blog-item .blog-body a {
+    max-height: auto !important;
+    min-height: auto !important;
+  }
+  .blog-listing-section .blog-listing-inner .blog-lisiting-all .blog-item .blog-body a img {
+    max-height: auto !important;
+    min-height: auto !important;
+  }
+  .container {
+    max-width: 600px;
+  }
+}
+
+@media (min-width: 1023px) and (max-width: 1366px) {
+  .container {
+    max-width: '90%';
+  }
+}
+
+@media screen and (max-width: 1600px) {
+  .project-container-main .project-menu {
+    bottom: 15px;
+  }
+  .project-container-main .owl-dots {
+    bottom: 40px;
+  }
+  .project-container-main .panel {
+    padding: 25px 0 25px 0;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome {
+    padding: 60px 0 0 0;
+  }
+  .ourtechnology-section .heading-div h2 {
+    margin: 0 0 10px 0;
+  }
+  .ourtechnology-section .heading-div {
+    margin-bottom: 20px;
+  }
+  .ourtechnology-section .our-technology-listing .technology-box {
+    min-height: 200px;
+  }
+  .ourtechnology-section .our-technology-listing .technology-box a .hover-description h3 {
+    margin-bottom: 0px;
+  }
+  .project-container-main .project-one h2 {
+    margin-bottom: 20px;
+  }
+  .project-container-main .project-one p {
+    margin-bottom: 20px;
+  }
+  .project-container-main .project-two .project-content-two .btn-case-study {
+    margin-top: 20px;
+  }
+  .project-container-main .project-two .project-content-two h2 {
+    margin-bottom: 20px;
+  }
+  .project-container-main .project-two .project-content-two .sub-heading {
+    margin-bottom: 20px;
+  }
+  .hire-developer .hire-developer-content h3 {
+    margin-bottom: 20px;
+  }
+  .services-section .services-div .heading-div h2 {
+    margin-bottom: 20px;
+  }
+  .inner-page .services-section .heading-div {
+    margin-bottom: 20px;
+  }
+  .services-section .services-div .services-root {
+    margin: 20px 0 0 0;
+  }
+  .services-section .services-div .services-root .services-box {
+    padding: 25px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-service ul li .cb-content h3 {
+    margin-bottom: 5px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .welcome-menu.cb-menu-list ul li {
+    display: block;
+    margin-bottom: 95px;
+  }
+  .service-details-section .service-details-div .heading-div h2 {
+    margin-bottom: 20px;
+  }
+  .about-us-section .about-us-div .heading-div h2 {
+    margin-bottom: 20px;
+  }
+  .committed-root h2 {
+    margin-bottom: 20px;
+  }
+  .heading-div h2 {
+    margin-bottom: 20px;
+  }
+  .inner-page .banner-workdetail-page .banner-div .content-div {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+  }
+  .inner-page .banner-workdetail-page .banner-div .banner-content-workdetail {
+    padding-top: 0;
+  }
+  .inner-page .banner-workdetail-page .banner-div .banner-img-right .banner-work-img.mac-frame.small .mac-frame-inner {
+    max-height: 367px;
+  }
+  .inner-page .tech-detail-section .tech-detail-inner .tech-detail-heading h2 {
+    margin-bottom: 20px;
+  }
+  .inner-page .creative-agency-section .creative-agency-inner .creative-agency-heading h2 {
+    margin-bottom: 20px;
+  }
+  .inner-page .banner-workdetail-page .banner-div .banner-img-right .banner-work-img.mac-frame .mac-frame-inner {
+    max-height: 403px;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  .inner-page .banner-workdetail-page .banner-div .banner-img-right .banner-work-img.mac-frame .mac-frame-inner {
+    max-height: 428px;
+  }
+  .inner-page .banner-workdetail-page .banner-div .banner-img-right .banner-work-img.mac-frame.small .mac-frame-inner {
+    max-height: 330px;
+  }
+  .inner-page .banner-workdetail-page .banner-div .banner-img-right .banner-work-img.mac-frame {
+    max-width: 630px;
+  }
+}
+
+@media screen and (max-width: 1366px) {
+  .project-container-main .container-lg-2 {
+    padding-right: 40px;
+  }
+  .project-container-main .project-two .project-content-two .sub-heading .br-1 {
+    padding-right: 10px;
+  }
+  .testimonial-section .testimonial-inner .testimonial-content {
+    max-width: 100%;
+    padding-right: 0px;
+  }
+  .project-view-section .all-workslider .all-wrok-box .all-wrok-img {
+    min-height: 130px;
+  }
+  .inner-page .banner-workdetail-page .banner-div .content-div {
+    padding-top: 35px;
+  }
+  .inner-page .banner-workdetail-page .banner-div .banner-img-right .banner-work-img.mac-frame.small .mac-frame-inner {
+    max-height: 315px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-service ul li,
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-technolgy ul li {
+    min-height: 150px;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .inner-page .banner-workdetail-page .banner-div .banner-img-right .banner-work-img.mac-frame.small .mac-frame-inner {
+    max-height: 293px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .welcome-menu.cb-menu-list ul li a.welcome-link span {
+    padding-right: 20px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-technolgy ul li .cb-menu-icon {
+    height: 50px;
+    width: 50px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-technolgy ul li .cb-content {
+    padding: 15px 15px 30px 80px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-technolgy ul li .cb-content h3 {
+    margin-bottom: 5px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-service ul li,
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-technolgy ul li {
+    min-height: 130px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-service ul li .cb-menu-icon {
+    height: 50px;
+    width: 50px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-service ul li .cb-content {
+    padding: 15px 15px 15px 80px;
+  }
+  .service-circle1 {
+    -webkit-mask-size: contain !important;
+    width: 20px;
+    height: 20px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-service ul li .cb-content h3 {
+    margin-bottom: 5px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .project-container-main .project-menu {
+    display: none;
+  }
+  .inner-page .banner-workdetail-page .banner-div .banner-img-right .banner-work-img.mac-frame.small .mac-frame-inner {
+    max-height: 293px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .welcome-menu.cb-menu-list ul li a.welcome-link span {
+    padding-right: 20px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-technolgy ul li .cb-menu-icon {
+    height: 50px;
+    width: 50px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-technolgy ul li .cb-content {
+    padding: 15px 15px 30px 80px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-technolgy ul li .cb-content h3 {
+    margin-bottom: 5px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-service ul li,
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-technolgy ul li {
+    min-height: 80px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-service ul li .cb-menu-icon {
+    height: 50px;
+    width: 50px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-service ul li .cb-content {
+    padding: 15px 15px 15px 80px;
+  }
+  .service-circle1 {
+    -webkit-mask-size: contain !important;
+    width: 20px;
+    height: 20px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-service ul li .cb-content h3 {
+    margin-bottom: 5px;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-technolgy ul li {
+    width: 100%;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-service ul li .cb-content p {
+    max-width: 100%;
+  }
+  .project-container-main .container-lg-2 {
+    padding-right: 20;
+    padding-left: 20;
+  }
+  .project-container-main .project-two .squre-shape {
+    display: none;
+  }
+  .hire-developer {
+    background-image: none;
+  }
+  .hire-developer .hire-developer-content p {
+    width: 100%;
+  }
+  .services-section .services-div .services-root .services-box {
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+            flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .ourtechnology-section .our-technology-listing .technology-box {
+    width: 50%;
+  }
+  .project-view-section {
+    padding: 30px 0 30px 0;
+  }
+  .project-view-section .project-view-div .heading-section h2 {
+    margin: 0 0 20px 0;
+  }
+  .inner-page .banner-workdetail-page .banner-div .banner-img-right .banner-work-img.mac-frame .mac-frame-inner {
+    max-height: 371px;
+  }
+  .inner-page .banner-workdetail-page .banner-div .banner-img-right .banner-work-img.mac-frame.small .mac-frame-inner {
+    max-height: 234px;
+  }
+  .footer-root .footer-inner .messages-text-heading {
+    margin: 0 0 30px 0;
+  }
+  .footer-root .footer-inner .button-row {
+    margin: 0 0 30px 0;
+  }
+  .footer-root .info-link-footer-div .contact-info-footer {
+    margin: 20px 0 20px 0;
+  }
+  .footer-root .info-link-footer-div .footer-link {
+    margin: 20px 0 20px 0;
+  }
+  .footer-root .info-link-footer-div .footer-link ul {
+    margin: 20px 0 20px 0;
+  }
+  .footer-root .footer-inner .contact-info-footer .contact-info-row {
+    margin-bottom: 30px !important;
+  }
+}
+
+/* Typo */
+/*# sourceMappingURL=extra.css.map */

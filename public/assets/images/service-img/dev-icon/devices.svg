@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35.84" height="27.766" viewBox="0 0 35.84 27.766">
+  <g id="devices_1_" data-name="devices (1)" transform="translate(0 -0.047)">
+    <path id="Shape" d="M1.905,18.922A1.93,1.93,0,0,1,0,16.946v-15A1.9,1.9,0,0,1,1.905,0H29.9a2,2,0,0,1,2.013,1.943V9.517H28.76a1.773,1.773,0,0,0-1.777,1.735v7.67Z" transform="translate(0 0.047)" fill="#ed5c37"/>
+    <path id="Path" d="M14.443,3.807H11.084V0H5.15V3.807H1.679a1.679,1.679,0,0,0,0,3.359H14.443a1.679,1.679,0,1,0,0-3.359Z" transform="translate(7.837 20.648)" fill="#ed5c37"/>
+    <path id="Path-2" data-name="Path" d="M7.165,2.311V0H0V2.311c0,.031.067.04.1.04H7.164C7.195,2.351,7.165,2.342,7.165,2.311Z" transform="translate(28.662 22.999)" fill="#ed5c37"/>
+    <path id="Path-3" data-name="Path" d="M7.164,0H.1C.067,0,0,.025,0,.056v10.02H7.165V.056C7.165.025,7.195,0,7.164,0Z" transform="translate(28.662 11.243)" fill="#ed5c37"/>
+  </g>
+</svg>

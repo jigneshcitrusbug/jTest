@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.584" height="21.408" viewBox="0 0 12.584 21.408">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(0,0,0,0);
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 1.8px;
+      }
+    </style>
+  </defs>
+  <g id="facebook_1_" data-name="facebook (1)" transform="translate(0.9 0.9)">
+    <path id="Path" class="cls-1" d="M10.784,0H7.843a4.9,4.9,0,0,0-4.9,4.9V7.843H0v3.922H2.941v7.843H6.863V11.765H9.8l.98-3.922H6.863V4.9a.98.98,0,0,1,.98-.98h2.941Z"/>
+  </g>
+</svg>

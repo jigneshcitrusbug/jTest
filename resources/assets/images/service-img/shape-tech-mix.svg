@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="427px" height="562px" viewBox="0 0 427 562" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>shape-tech-mix</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="426.399975" height="561.599967"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#F79568" offset="0%"></stop>
+            <stop stop-color="#ED5C37" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shape-tech-mix" transform="translate(213.500000, 281.000000) scale(-1, 1) translate(-213.500000, -281.000000) ">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="Group-8" mask="url(#mask-2)">
+                <g transform="translate(-304.799982, -135.999992)">
+                    <ellipse id="Oval" stroke="#200000" stroke-width="0.799999952" cx="243.08531" cy="461.040323" rx="242.514661" ry="242.640336"></ellipse>
+                    <ellipse id="Oval-Copy" stroke="#99A7A8" stroke-width="0.5" cx="421.873012" cy="299.081854" rx="298.926945" ry="299.081854"></ellipse>
+                </g>
+            </g>
+            <g id="Group-12" mask="url(#mask-2)">
+                <g transform="translate(155.999984, 196.000000) scale(-1, 1) translate(-155.999984, -196.000000) translate(27.999984, 68.000000)">
+                    <circle id="Oval-Copy-2" fill="url(#linearGradient-3)" cx="127.999992" cy="127.999992" r="127.999992"></circle>
+                    <path d="M127.999999,15.999999 C189.855881,15.999999 239.999986,66.1441041 239.999986,127.999999 C239.999986,189.855881 189.855881,239.999986 127.999999,239.999986 C66.1441041,239.999986 15.999999,189.855881 15.999999,127.999999 C15.999999,66.1441041 66.1441041,15.999999 127.999999,15.999999 Z M119.681837,97.9023234 L70.2499958,160.37499 C83.7783337,144.484258 99.5860969,131.334542 122.262801,130.64097 C147.052829,131.457388 166.34617,144.760663 183.124989,159.230981 C162.78904,138.771886 144.425868,118.315351 124.087363,97.8588151 C121.994483,95.5835918 121.064314,96.5663655 119.681837,97.9023234 Z" id="Combined-Shape" fill="#FFFFFF" transform="translate(127.999992, 127.999992) scale(-1, 1) rotate(90.000000) translate(-127.999992, -127.999992) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

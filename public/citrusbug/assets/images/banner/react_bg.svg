@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1446px" height="900px" viewBox="0 0 1446 900" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>React2</title>
+    <defs>
+        <polygon id="path-1" points="1446 0 1446 900 0 900 0 0"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="React2">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#00A3D0" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="Group-148" opacity="0.133161272" style="mix-blend-mode: luminosity;" mask="url(#mask-2)" fill-rule="nonzero">
+                <g transform="translate(-29.000000, -162.000000)" id="Path">
+                    <polygon fill="#3462FF" points="36.32 157.88 75.68 157.88 36.32 102.12"></polygon>
+                    <polygon fill="#3462FF" points="37 236.54 131 236.54 76.5789474 159.46 37 159.46"></polygon>
+                    <polygon fill="#3F70FF" points="175.585106 159.46 75 159.46 129.414894 236.54 230 236.54"></polygon>
+                    <polygon fill="#5180FF" points="276.873016 159.46 176 159.46 230.126984 236.54 331 236.54"></polygon>
+                    <polygon fill="#4A7AFF" points="375.585106 159.46 275 159.46 329.414894 236.54 430 236.54"></polygon>
+                    <polygon fill="#5180FF" points="476.873016 159.46 376 159.46 430.126984 236.54 531 236.54"></polygon>
+                    <polygon fill="#5987FF" points="575.585106 159.46 475 159.46 529.414894 236.54 630 236.54"></polygon>
+                    <polygon fill="#80A7FF" points="676.873016 159.46 576 159.46 630.126984 236.54 731 236.54"></polygon>
+                    <polygon fill="#E7F7FF" points="775.585106 159.46 675 159.46 729.414894 236.54 830 236.54"></polygon>
+                    <polygon fill="#A9C8FF" points="876.873016 159.46 776 159.46 830.126984 236.54 931 236.54"></polygon>
+                    <polygon fill="#FFFFFF" points="975.585106 159.46 875 159.46 929.414894 236.54 1030 236.54"></polygon>
+                    <polygon fill="#B1CEFF" points="1076.87302 159.46 976 159.46 1030.12698 236.54 1131 236.54"></polygon>
+                    <polygon fill="#FFFFFF" points="1174.58511 159.46 1074 159.46 1128.41489 236.54 1229 236.54"></polygon>
+                    <polygon fill="#F9FFFF" points="1276.87302 159.46 1176 159.46 1230.12698 236.54 1331 236.54"></polygon>
+                    <polygon fill="#EDFBFF" points="1375.58511 159.46 1275 159.46 1329.41489 236.54 1430 236.54"></polygon>
+                    <polygon fill="#8AB0FF" points="1476.87302 159.46 1376 159.46 1430.12698 236.54 1531 236.54"></polygon>
+                    <polygon fill="#315EFF" points="37.22 313.62 84.78 313.62 37.22 246.38"></polygon>
+                    <polygon fill="#3F70FF" points="37 245.71 84.3666667 312.95 184 312.95 130.1 235.05 37 235.05"></polygon>
+                    <polygon fill="#3C6DFF" points="231.05291 235.05 131 235.05 185.126984 312.95 286 312.95"></polygon>
+                    <polygon fill="#4474FF" points="329.873016 235.05 229 235.05 283.94709 312.95 384 312.95"></polygon>
+                    <polygon fill="#4171FF" points="431.05291 235.05 331 235.05 385.126984 312.95 486 312.95"></polygon>
+                    <polygon fill="#6A95FF" points="529.873016 235.05 429 235.05 483.94709 312.95 584 312.95"></polygon>
+                    <polygon fill="#8DB3FF" points="630.05291 235.05 530 235.05 584.126984 312.95 685 312.95"></polygon>
+                    <polygon fill="#80A7FF" points="730.873016 235.05 630 235.05 684.94709 312.95 785 312.95"></polygon>
+                    <polygon fill="#CEE5FF" points="830.05291 235.05 730 235.05 784.126984 312.95 885 312.95"></polygon>
+                    <polygon fill="#C8E1FF" points="929.873016 235.05 829 235.05 883.94709 312.95 984 312.95"></polygon>
+                    <polygon fill="#B5D2FF" points="1030.05291 235.05 930 235.05 984.126984 312.95 1085 312.95"></polygon>
+                    <polygon fill="#E7F7FF" points="1129.87302 235.05 1029 235.05 1083.94709 312.95 1184 312.95"></polygon>
+                    <polygon fill="#EDFBFF" points="1230.05291 235.05 1130 235.05 1184.12698 312.95 1285 312.95"></polygon>
+                    <polygon fill="#FFFFFF" points="1329.87302 235.05 1229 235.05 1283.94709 312.95 1384 312.95"></polygon>
+                    <polygon fill="#D5EBFF" points="1431.05291 235.05 1331 235.05 1385.12698 312.95 1486 312.95"></polygon>
+                    <polygon fill="#C1DBFF" points="1529.87302 235.05 1429 235.05 1483.94709 312.95 1584 312.95"></polygon>
+                    <polygon fill="#315EFF" points="36 388.9 36.8225806 390.54 138 390.54 83.7096774 313.46 36 313.46"></polygon>
+                    <polygon fill="#3462FF" points="185.585106 313.46 85 313.46 139.414894 390.54 240 390.54"></polygon>
+                    <polygon fill="#3462FF" points="284.873016 313.46 184 313.46 238.126984 390.54 339 390.54"></polygon>
+                    <polygon fill="#5180FF" points="384.585106 313.46 284 313.46 338.414894 390.54 439 390.54"></polygon>
+                    <polygon fill="#5987FF" points="484.873016 313.46 384 313.46 438.126984 390.54 539 390.54"></polygon>
+                    <polygon fill="#9DBFFF" points="584.585106 313.46 484 313.46 538.414894 390.54 639 390.54"></polygon>
+                    <polygon fill="#A5C5FF" points="683.873016 313.46 583 313.46 637.126984 390.54 738 390.54"></polygon>
+                    <polygon fill="#86ACFF" points="784.585106 313.46 684 313.46 738.414894 390.54 839 390.54"></polygon>
+                    <polygon fill="#A0C1FF" points="883.873016 313.46 783 313.46 837.126984 390.54 938 390.54"></polygon>
+                    <polygon fill="#9DBFFF" points="985.585106 313.46 885 313.46 939.414894 390.54 1040 390.54"></polygon>
+                    <polygon fill="#B5D2FF" points="1083.87302 313.46 983 313.46 1037.12698 390.54 1138 390.54"></polygon>
+                    <polygon fill="#C8E1FF" points="1185.58511 313.46 1085 313.46 1139.41489 390.54 1240 390.54"></polygon>
+                    <polygon fill="#DBEFFF" points="1283.87302 313.46 1183 313.46 1237.12698 390.54 1338 390.54"></polygon>
+                    <polygon fill="#FDFFFF" points="1384.58511 313.46 1284 313.46 1338.41489 390.54 1439 390.54"></polygon>
+                    <polygon fill="#FFFFFF" points="1484.87302 313.46 1384 313.46 1438.12698 390.54 1539 390.54"></polygon>
+                    <polygon fill="#2751F9" points="38.12 467.95 93.88 467.95 38.94 390.05 38.12 390.05"></polygon>
+                    <polygon fill="#3C6DFF" points="138.873016 390.05 38 390.05 92.9470899 467.95 193 467.95"></polygon>
+                    <polygon fill="#4474FF" points="238.05291 390.05 138 390.05 192.126984 467.95 293 467.95"></polygon>
+                    <polygon fill="#4A7AFF" points="339.873016 390.05 239 390.05 293.94709 467.95 394 467.95"></polygon>
+                    <polygon fill="#6692FF" points="438.05291 390.05 338 390.05 392.126984 467.95 493 467.95"></polygon>
+                    <polygon fill="#5786FF" points="539.873016 390.05 439 390.05 493.94709 467.95 594 467.95"></polygon>
+                    <polygon fill="#608DFF" points="637.05291 390.05 537 390.05 591.126984 467.95 692 467.95"></polygon>
+                    <polygon fill="#83AAFF" points="739.873016 390.05 639 390.05 693.94709 467.95 794 467.95"></polygon>
+                    <polygon fill="#86ACFF" points="837.585106 390.05 737 390.05 791.414894 467.95 892 467.95"></polygon>
+                    <polygon fill="#ACCAFF" points="939.873016 390.05 839 390.05 893.126984 467.95 994 467.95"></polygon>
+                    <polygon fill="#D5EBFF" points="1038.05291 390.05 938 390.05 992.126984 467.95 1093 467.95"></polygon>
+                    <polygon fill="#8DB3FF" points="1139.87302 390.05 1039 390.05 1093.94709 467.95 1194 467.95"></polygon>
+                    <polygon fill="#DFF1FF" points="1238.05291 390.05 1138 390.05 1192.12698 467.95 1293 467.95"></polygon>
+                    <polygon fill="#DFF1FF" points="1338.87302 390.05 1238 390.05 1292.94709 467.95 1393 467.95"></polygon>
+                    <polygon fill="#FFFFFF" points="1438.58511 390.05 1338 390.05 1392.41489 467.95 1493 467.95"></polygon>
+                    <polygon fill="#F1FFFF" points="1539.87302 390.05 1439 390.05 1493.12698 467.95 1594 467.95"></polygon>
+                    <polygon fill="#4877FF" points="36.49 544.56 45.51 544.56 36.49 531.44"></polygon>
+                    <polygon fill="#4877FF" points="36 531.42 44.9477612 544.54 145 544.54 91.3134328 467.46 36 467.46"></polygon>
+                    <polygon fill="#3F70FF" points="192.585106 467.46 92 467.46 146.414894 544.54 247 544.54"></polygon>
+                    <polygon fill="#4171FF" points="293.873016 467.46 193 467.46 247.126984 544.54 348 544.54"></polygon>
+                    <polygon fill="#4D7DFF" points="391.585106 467.46 291 467.46 345.414894 544.54 446 544.54"></polygon>
+                    <polygon fill="#608DFF" points="493.873016 467.46 393 467.46 447.126984 544.54 548 544.54"></polygon>
+                    <polygon fill="#5786FF" points="592.585106 467.46 492 467.46 546.414894 544.54 647 544.54"></polygon>
+                    <polygon fill="#83AAFF" points="693.873016 467.46 593 467.46 647.126984 544.54 748 544.54"></polygon>
+                    <polygon fill="#8AB0FF" points="792.585106 467.46 692 467.46 746.414894 544.54 847 544.54"></polygon>
+                    <polygon fill="#719BFF" points="893.05291 467.46 793 467.46 847.126984 544.54 948 544.54"></polygon>
+                    <polygon fill="#98BCFF" points="992.873016 467.46 892 467.46 946.94709 544.54 1047 544.54"></polygon>
+                    <polygon fill="#C1DBFF" points="1093.87302 467.46 993 467.46 1047.12698 544.54 1148 544.54"></polygon>
+                    <polygon fill="#BED7FF" points="1192.58511 467.46 1092 467.46 1146.41489 544.54 1247 544.54"></polygon>
+                    <polygon fill="#C1DBFF" points="1293.87302 467.46 1193 467.46 1247.12698 544.54 1348 544.54"></polygon>
+                    <polygon fill="#FFFFFF" points="1391.58511 467.46 1291 467.46 1345.41489 544.54 1446 544.54"></polygon>
+                    <polygon fill="#D5EBFF" points="1493.05291 467.46 1393 467.46 1447.12698 544.54 1548 544.54"></polygon>
+                    <polygon fill="#5180FF" points="36.43 621.95 99.57 621.95 45.45 544.05 36.43 544.05"></polygon>
+                    <polygon fill="#4171FF" points="146.873016 544.05 46 544.05 100.126984 621.95 201 621.95"></polygon>
+                    <polygon fill="#4D7DFF" points="247.585106 544.05 147 544.05 201.414894 621.95 302 621.95"></polygon>
+                    <polygon fill="#5180FF" points="346.873016 544.05 246 544.05 300.126984 621.95 401 621.95"></polygon>
+                    <polygon fill="#6A95FF" points="447.585106 544.05 347 544.05 401.414894 621.95 502 621.95"></polygon>
+                    <polygon fill="#7BA4FF" points="546.873016 544.05 446 544.05 500.126984 621.95 601 621.95"></polygon>
+                    <polygon fill="#5987FF" points="648.585106 544.05 548 544.05 602.414894 621.95 703 621.95"></polygon>
+                    <polygon fill="#80A7FF" points="746.873016 544.05 646 544.05 700.126984 621.95 801 621.95"></polygon>
+                    <polygon fill="#A0C1FF" points="847.585106 544.05 747 544.05 801.414894 621.95 902 621.95"></polygon>
+                    <polygon fill="#83AAFF" points="946.873016 544.05 846 544.05 900.126984 621.95 1001 621.95"></polygon>
+                    <polygon fill="#B5D2FF" points="1047.58511 544.05 947 544.05 1001.41489 621.95 1102 621.95"></polygon>
+                    <polygon fill="#D2E7FF" points="1145.87302 544.05 1045 544.05 1099.12698 621.95 1200 621.95"></polygon>
+                    <polygon fill="#A0C1FF" points="1247.58511 544.05 1147 544.05 1201.41489 621.95 1302 621.95"></polygon>
+                    <polygon fill="#E3F5FF" points="1346.87302 544.05 1246 544.05 1300.12698 621.95 1401 621.95"></polygon>
+                    <polygon fill="#FFFFFF" points="1447.58511 544.05 1347 544.05 1401.41489 621.95 1502 621.95"></polygon>
+                    <polygon fill="#4877FF" points="37.39 696.3 54.61 696.3 37.39 671.7"></polygon>
+                    <polygon fill="#4877FF" points="37 673.94 54.2083333 698.54 155 698.54 100.097222 621.46 37 621.46"></polygon>
+                    <polygon fill="#608DFF" points="200.873016 621.46 100 621.46 154.94709 698.54 255 698.54"></polygon>
+                    <polygon fill="#4877FF" points="300.05291 621.46 200 621.46 254.126984 698.54 355 698.54"></polygon>
+                    <polygon fill="#5D8AFF" points="399.873016 621.46 299 621.46 353.94709 698.54 454 698.54"></polygon>
+                    <polygon fill="#608DFF" points="500.05291 621.46 400 621.46 454.126984 698.54 555 698.54"></polygon>
+                    <polygon fill="#7BA4FF" points="599.873016 621.46 499 621.46 553.94709 698.54 654 698.54"></polygon>
+                    <polygon fill="#7BA4FF" points="700.05291 621.46 600 621.46 654.126984 698.54 755 698.54"></polygon>
+                    <polygon fill="#98BCFF" points="799.873016 621.46 699 621.46 753.94709 698.54 854 698.54"></polygon>
+                    <polygon fill="#6A95FF" points="901.05291 621.46 801 621.46 855.126984 698.54 956 698.54"></polygon>
+                    <polygon fill="#8AB0FF" points="999.873016 621.46 899 621.46 953.94709 698.54 1054 698.54"></polygon>
+                    <polygon fill="#C8E1FF" points="1100.05291 621.46 1000 621.46 1054.12698 698.54 1155 698.54"></polygon>
+                    <polygon fill="#CEE5FF" points="1199.87302 621.46 1099 621.46 1153.94709 698.54 1254 698.54"></polygon>
+                    <polygon fill="#FFFFFF" points="1300.05291 621.46 1200 621.46 1254.12698 698.54 1355 698.54"></polygon>
+                    <polygon fill="#F9FFFF" points="1399.87302 621.46 1299 621.46 1353.94709 698.54 1454 698.54"></polygon>
+                    <polygon fill="#5D8AFF" points="37.33 773.54 108.67 773.54 54.55 696.46 37.33 696.46"></polygon>
+                    <polygon fill="#608DFF" points="153.873016 696.46 53 696.46 107.126984 773.54 208 773.54"></polygon>
+                    <polygon fill="#4A7AFF" points="255.585106 696.46 155 696.46 209.414894 773.54 310 773.54"></polygon>
+                    <polygon fill="#5786FF" points="353.873016 696.46 253 696.46 307.126984 773.54 408 773.54"></polygon>
+                    <polygon fill="#5987FF" points="455.585106 696.46 355 696.46 409.414894 773.54 510 773.54"></polygon>
+                    <polygon fill="#A0C1FF" points="553.873016 696.46 453 696.46 507.126984 773.54 608 773.54"></polygon>
+                    <polygon fill="#8DB3FF" points="655.585106 696.46 555 696.46 609.414894 773.54 710 773.54"></polygon>
+                    <polygon fill="#719BFF" points="753.873016 696.46 653 696.46 707.126984 773.54 808 773.54"></polygon>
+                    <polygon fill="#92B6FF" points="854.585106 696.46 754 696.46 808.414894 773.54 909 773.54"></polygon>
+                    <polygon fill="#749DFF" points="954.873016 696.46 854 696.46 908.126984 773.54 1009 773.54"></polygon>
+                    <polygon fill="#8DB3FF" points="1054.58511 696.46 954 696.46 1008.41489 773.54 1109 773.54"></polygon>
+                    <polygon fill="#C8E1FF" points="1153.87302 696.46 1053 696.46 1107.12698 773.54 1208 773.54"></polygon>
+                    <polygon fill="#D5EBFF" points="1254.58511 696.46 1154 696.46 1208.41489 773.54 1309 773.54"></polygon>
+                    <polygon fill="#E3F5FF" points="1353.87302 696.46 1253 696.46 1307.12698 773.54 1408 773.54"></polygon>
+                    <polygon fill="#92B6FF" points="1455.58511 696.46 1355 696.46 1409.41489 773.54 1510 773.54"></polygon>
+                    <polygon fill="#4171FF" points="39.29 851.04 64.71 851.04 39.29 814.96"></polygon>
+                    <polygon fill="#5786FF" points="37 814.87 62.3267974 850.95 162 850.95 108.078431 773.05 37 773.05"></polygon>
+                    <polygon fill="#6692FF" points="209.873016 773.05 109 773.05 163.126984 850.95 264 850.95"></polygon>
+                    <polygon fill="#6490FF" points="307.585106 773.05 207 773.05 261.414894 850.95 362 850.95"></polygon>
+                    <polygon fill="#4877FF" points="409.873016 773.05 309 773.05 363.126984 850.95 464 850.95"></polygon>
+                    <polygon fill="#608DFF" points="508.585106 773.05 408 773.05 462.414894 850.95 563 850.95"></polygon>
+                    <polygon fill="#6A95FF" points="608.873016 773.05 508 773.05 562.126984 850.95 663 850.95"></polygon>
+                    <polygon fill="#86ACFF" points="708.585106 773.05 608 773.05 662.414894 850.95 763 850.95"></polygon>
+                    <polygon fill="#92B6FF" points="808.873016 773.05 708 773.05 762.126984 850.95 863 850.95"></polygon>
+                    <polygon fill="#ACCAFF" points="907.05291 773.05 807 773.05 861.126984 850.95 962 850.95"></polygon>
+                    <polygon fill="#749DFF" points="1009.87302 773.05 909 773.05 963.94709 850.95 1064 850.95"></polygon>
+                    <polygon fill="#A0C1FF" points="1107.05291 773.05 1007 773.05 1061.12698 850.95 1162 850.95"></polygon>
+                    <polygon fill="#C1DBFF" points="1209.87302 773.05 1109 773.05 1163.94709 850.95 1264 850.95"></polygon>
+                    <polygon fill="#DBEFFF" points="1307.58511 773.05 1207 773.05 1261.41489 850.95 1362 850.95"></polygon>
+                    <polygon fill="#D5EBFF" points="1409.87302 773.05 1309 773.05 1363.12698 850.95 1464 850.95"></polygon>
+                    <polygon fill="#D5EBFF" points="1507.58511 773.05 1407 773.05 1461.41489 850.95 1562 850.95"></polygon>
+                    <polygon fill="#4877FF" points="37.23 927.54 116.77 927.54 62.65 850.46 37.23 850.46"></polygon>
+                    <polygon fill="#5786FF" points="163.05291 850.46 63 850.46 117.126984 927.54 218 927.54"></polygon>
+                    <polygon fill="#608DFF" points="262.873016 850.46 162 850.46 216.94709 927.54 317 927.54"></polygon>
+                    <polygon fill="#5D8AFF" points="363.05291 850.46 263 850.46 317.126984 927.54 418 927.54"></polygon>
+                    <polygon fill="#5D8AFF" points="462.873016 850.46 362 850.46 416.94709 927.54 517 927.54"></polygon>
+                    <polygon fill="#86ACFF" points="563.05291 850.46 463 850.46 517.126984 927.54 618 927.54"></polygon>
+                    <polygon fill="#6D98FF" points="662.873016 850.46 562 850.46 616.94709 927.54 717 927.54"></polygon>
+                    <polygon fill="#DBEFFF" points="763.05291 850.46 663 850.46 717.126984 927.54 818 927.54"></polygon>
+                    <polygon fill="#ACCAFF" points="861.873016 850.46 761 850.46 815.94709 927.54 916 927.54"></polygon>
+                    <polygon fill="#98BCFF" points="963.873016 850.46 863 850.46 917.126984 927.54 1018 927.54"></polygon>
+                    <polygon fill="#B8D4FF" points="1061.58511 850.46 961 850.46 1015.41489 927.54 1116 927.54"></polygon>
+                    <polygon fill="#BED7FF" points="1163.87302 850.46 1063 850.46 1117.12698 927.54 1218 927.54"></polygon>
+                    <polygon fill="#B8D4FF" points="1262.58511 850.46 1162 850.46 1216.41489 927.54 1317 927.54"></polygon>
+                    <polygon fill="#B8D4FF" points="1363.05291 850.46 1263 850.46 1317.12698 927.54 1418 927.54"></polygon>
+                    <polygon fill="#FFFFFF" points="1462.87302 850.46 1362 850.46 1416.94709 927.54 1517 927.54"></polygon>
+                    <polygon fill="#D2E7FF" points="1562.05291 850.46 1462 850.46 1516.12698 927.54 1617 927.54"></polygon>
+                    <polygon fill="#5383FF" points="37.19 1007.19 70.81 1007.19 37.19 958.81"></polygon>
+                    <polygon fill="#4877FF" points="36 958.57 69.4539877 1006.95 169 1006.95 115.147239 929.05 36 929.05"></polygon>
+                    <polygon fill="#5383FF" points="216.873016 929.05 116 929.05 170.126984 1006.95 271 1006.95"></polygon>
+                    <polygon fill="#6A95FF" points="317.585106 929.05 217 929.05 271.414894 1006.95 372 1006.95"></polygon>
+                    <polygon fill="#6692FF" points="416.873016 929.05 316 929.05 370.126984 1006.95 471 1006.95"></polygon>
+                    <polygon fill="#608DFF" points="517.585106 929.05 417 929.05 471.414894 1006.95 572 1006.95"></polygon>
+                    <polygon fill="#608DFF" points="615.873016 929.05 515 929.05 569.126984 1006.95 670 1006.95"></polygon>
+                    <polygon fill="#8DB3FF" points="717.585106 929.05 617 929.05 671.414894 1006.95 772 1006.95"></polygon>
+                    <polygon fill="#FFFFFF" points="816.873016 929.05 716 929.05 770.126984 1006.95 871 1006.95"></polygon>
+                    <polygon fill="#A0C1FF" points="917.585106 929.05 817 929.05 871.414894 1006.95 972 1006.95"></polygon>
+                    <polygon fill="#B5D2FF" points="1016.87302 929.05 916 929.05 970.126984 1006.95 1071 1006.95"></polygon>
+                    <polygon fill="#98BCFF" points="1117.58511 929.05 1017 929.05 1071.41489 1006.95 1172 1006.95"></polygon>
+                    <polygon fill="#D5EBFF" points="1216.87302 929.05 1116 929.05 1170.12698 1006.95 1271 1006.95"></polygon>
+                    <polygon fill="#C5DDFF" points="1317.58511 929.05 1217 929.05 1271.41489 1006.95 1372 1006.95"></polygon>
+                    <polygon fill="#BED7FF" points="1416.87302 929.05 1316 929.05 1370.12698 1006.95 1471 1006.95"></polygon>
+                    <polygon fill="#E3F5FF" points="1517.58511 929.05 1417 929.05 1471.41489 1006.95 1572 1006.95"></polygon>
+                    <polygon fill="#5786FF" points="37 1084.54 124 1084.54 70.3364486 1007.46 37 1007.46"></polygon>
+                    <polygon fill="#4A7AFF" points="170.05291 1007.46 70 1007.46 124.126984 1084.54 225 1084.54"></polygon>
+                    <polygon fill="#4A7AFF" points="271.873016 1007.46 171 1007.46 225.94709 1084.54 326 1084.54"></polygon>
+                    <polygon fill="#5987FF" points="370.05291 1007.46 270 1007.46 324.126984 1084.54 425 1084.54"></polygon>
+                    <polygon fill="#749DFF" points="471.873016 1007.46 371 1007.46 425.94709 1084.54 526 1084.54"></polygon>
+                    <polygon fill="#719BFF" points="570.05291 1007.46 470 1007.46 524.126984 1084.54 625 1084.54"></polygon>
+                    <polygon fill="#B1CEFF" points="671.873016 1007.46 571 1007.46 625.94709 1084.54 726 1084.54"></polygon>
+                    <polygon fill="#B1CEFF" points="770.05291 1007.46 670 1007.46 724.126984 1084.54 825 1084.54"></polygon>
+                    <polygon fill="#ACCAFF" points="872.873016 1007.46 772 1007.46 826.94709 1084.54 927 1084.54"></polygon>
+                    <polygon fill="#CEE5FF" points="970.05291 1007.46 870 1007.46 924.126984 1084.54 1025 1084.54"></polygon>
+                    <polygon fill="#F1FFFF" points="1071.87302 1007.46 971 1007.46 1025.94709 1084.54 1126 1084.54"></polygon>
+                    <polygon fill="#EDFBFF" points="1170.05291 1007.46 1070 1007.46 1124.12698 1084.54 1225 1084.54"></polygon>
+                    <polygon fill="#FDFFFF" points="1271.87302 1007.46 1171 1007.46 1225.94709 1084.54 1326 1084.54"></polygon>
+                    <polygon fill="#C1DBFF" points="1371.05291 1007.46 1271 1007.46 1325.12698 1084.54 1426 1084.54"></polygon>
+                    <polygon fill="#DBEFFF" points="1471.87302 1007.46 1371 1007.46 1425.94709 1084.54 1526 1084.54"></polygon>
+                    <polygon fill="#E7F7FF" points="1570.05291 1007.46 1470 1007.46 1524.12698 1084.54 1625 1084.54"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

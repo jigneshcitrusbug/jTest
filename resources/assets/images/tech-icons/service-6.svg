@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="55px" viewBox="0 0 55 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vue-9" transform="translate(0.000000, 4.000000)" fill-rule="nonzero">
+            <polygon id="Path" fill="#41B883" points="44.0000013 0 55.0000016 0 27.5000008 47.4375014 0 0 21.0375006 0 27.5000008 11.0000003 33.825001 0"></polygon>
+            <polygon id="Path" fill="#41B883" points="0 0 27.5000008 47.4375014 55.0000016 0 44.0000013 0 27.5000008 28.4625008 10.8625003 0"></polygon>
+            <polygon id="Path" fill="#35495E" points="10.8625003 0 27.5000008 28.6000009 44.0000013 0 33.825001 0 27.5000008 11.0000003 21.0375006 0"></polygon>
+        </g>
+    </g>
+</svg>

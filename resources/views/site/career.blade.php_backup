@@ -1,0 +1,191 @@
+@extends('layouts.site.index')
+@section('content')
+
+<div class="inner-page">
+
+    <section class="banner-section banner-workdetail-page team-banner changetheme">
+        <!-- <div class="line-1"></div> -->
+        <div class="banner-div">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12">        
+                         
+                        <img src="{{ getasset('/assets/cover/aboutus/main.png') }}" class="banner-img" alt="banner" />
+                        
+                        <div class="content-div">
+                            <div class="heading-content heading-workdetail ">
+                                <div class="view-allprojects">
+                                    <a href="">CAREERS</a>
+                                </div>
+                                
+                                <h1>Join Our Team</h1>
+
+                                <p>
+                                    At Citrusbug Technolabs, the world’s most talented engineers, designers, and thought leaders are shaping the future of online publishing.
+                                </p>
+
+                            </div>
+                           
+                        </div>
+                    </div>
+                    </div>
+                    <div class="row"> 
+                    <div class="col-lg-5">
+                        
+                        {{-- <div class="banner-content-workdetail">
+                            <div class="service-request-quote">
+                                 <p><span>View all Openings</span></p>
+                            </div>
+                        </div> --}}
+                    </div> 
+                    {{-- <div class="col-lg-7">
+                        <div class="banner-img-right">
+                            <div class="banner-work-img punchline-img ">
+                                <img src="{{ getasset('/assets/images/Punchline.png')}}" class="about-content-rotation" alt="about" />
+                            </div>
+                        </div>
+                        
+                    </div> --}}
+                </div>        
+            </div>
+        </div>
+    </section>
+
+    {{-- @component('layouts.site.shared.banners', ['banner' => @$banner])
+
+        @slot('images')
+            <div class="slide slide1 " data-slide="we" data-slide-type="image">
+                <div class="slide_inner"  >
+                    <img src="{{ getasset('/assets/images/we.jpg') }}" alt="" srcset="">
+                </div>
+            </div>
+            <div class="slide slide2 " data-slide="developement" data-slide-type="image">
+                <div class="slide_inner"  >
+                    <img src="{{ getasset('/assets/images/development.jpg') }}" alt="" srcset="">
+                </div>
+            </div>
+            <div class="slide slide3 " data-slide="partner" data-slide-type="video">
+                <div class="slide_inner"  >
+                    <video src="{{ getasset('/assets/images/partner.mp4') }}" autoplay preload  loop >
+                        <source src="{{ getasset('/assets/images/partner.mp4') }}" type="video/mp4">
+                    </video>
+                </div>
+            </div>
+        @endslot
+        @slot('description')
+            <span id="slide-we" data-slide="we" data-slide-theme="dark" class="span-block main_slide">We are reliable</span>
+            <span class="span-block bold-line"> 
+                <a href="#" class="main_slide" data-slide="developement" data-slide-theme="light" >Developement</a> 
+                <a href="#" class="main_slide" data-slide="partner" data-slide-theme="dark">Partner</a></span>
+            <span class="span-block">since 2013</span>
+        @endslot
+
+        @slot('desc')
+            <p>We are a digital agency that specializes in User Experience Design</p>
+        @endslot
+       
+        @slot('nextsection')
+            main-middle-area
+        @endslot
+        
+
+    @endcomponent --}}
+    <!--  end of banner  -->
+
+
+    <div class="main-middle-area">
+
+        <section class="career-link-section">
+            <div class="container-fluid">
+                <div class="career-link-div container-lg">
+
+                    <div class="row">
+                        <div class="col-lg-12 col-md-12">
+                            <div class="heading-div heading-center-div mb-40">
+                                <h2>Open Positions</h2> 
+                                <p>
+                                    We’re looking for people to join the team who are as excited as we are to help build the platform that empowers the future generation of creators to be successful online.      
+                                </p>
+                                
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                       
+                             
+                                @if(count($careers) > 0)
+                                @foreach($careers as $key => $career)
+
+                                @php
+                                     $param = unserialize($career->param);    
+                                
+                                @endphp
+                            
+                                <div class="col-lg-4 col-md-4 col-sm-12 d-flex align-items-stretch">
+                                <div class="card">
+                                    <div class="card-body">
+                                        
+                                        <div class="job-title">
+                                            
+                                            <h2 class="card-title">
+                                                <a href="{{route('site.career',['slug'=>$career->slug])}}" class="careers-div">  
+                                                    {{$career->title}}
+                                                </a>
+                                            </h2>
+                                            
+                                        </div>
+                                        <div class="job-info">
+                                            <span>
+                                                {{$career->designation}}
+                                            </span>
+                                            <span>
+                                                {{$career->work_type}}
+                                            </span>
+                                            <span>
+                                                {{ $param['baseSalary'] }}
+                                            </span>
+                                            <span>
+                                                {{$career->position}} Candidate 
+                                            </span>
+                                            
+                                        </div>
+                                        <div class="job-details">
+                                            {{-- <p class="card-text">{!! $param['skills'] !!}</p> --}}
+
+                                            <p class="card-text">{!! $career->description !!}</p>
+                                        </div>
+
+                                        <div class="button-row"> 
+                                            <a href="{{route('site.career',['slug'=>$career->slug])}}" class="btn btn-apply">Apply now</a>
+                                        </div>
+                                    
+            
+                                </div>
+                                
+                                    
+                                     
+                                </div>
+ 
+                                </div>
+                                @endforeach
+                                @endif
+                              
+                             
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+
+        <x-package-article title="Lattest Articles"   />  
+        
+        {{-- @include('layouts.site.shared.technology')
+        
+        @include('layouts.site.shared.services') --}}
+
+    </div>
+</div>
+@endsection

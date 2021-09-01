@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.408" height="20.427" viewBox="0 0 21.408 20.427">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 1.8px;
+      }
+    </style>
+  </defs>
+  <g id="linkedin" transform="translate(0.9 0.9)">
+    <path id="Path" class="cls-1" d="M5.882,0a5.882,5.882,0,0,1,5.882,5.882v6.863H7.843V5.882a1.961,1.961,0,0,0-3.922,0v6.863H0V5.882A5.882,5.882,0,0,1,5.882,0Z" transform="translate(7.843 5.882)"/>
+    <rect id="Rectangle" class="cls-1" width="3.922" height="11.765" transform="translate(0 6.863)"/>
+    <circle id="Oval" class="cls-1" cx="1.961" cy="1.961" r="1.961" transform="translate(0 0)"/>
+  </g>
+</svg>

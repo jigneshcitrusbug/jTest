@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="66px" viewBox="0 0 48 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Pin</title>
+    <defs>
+        <filter x="-15.0%" y="-50.0%" width="130.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="1" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <radialGradient cx="50%" cy="42.1672088%" fx="50%" fy="42.1672088%" r="70.9891695%" gradientTransform="translate(0.500000,0.421672),scale(1.000000,0.800000),translate(-0.500000,-0.421672)" id="radialGradient-2">
+            <stop stop-color="#ED5C37" offset="0%"></stop>
+            <stop stop-color="#FF6C47" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Contact-us" transform="translate(-483.000000, -2757.000000)">
+            <g id="Group-12" transform="translate(483.000000, 2757.000000)">
+                <ellipse id="Oval" fill="#727272" style="mix-blend-mode: multiply;" filter="url(#filter-1)" cx="24" cy="60" rx="10" ry="3"></ellipse>
+                <g id="Group-9">
+                    <circle id="Oval" fill="#FFFFFF" cx="24.600001" cy="22.2000009" r="16.2000006"></circle>
+                    <path d="M24,0 C37.2548355,0 48,10.7451664 48,24 C48,32.836557 40,44.836557 24,60 C8,44.836557 0,32.836557 0,24 C0,10.7451664 10.7451664,0 24,0 Z M22.1355227,17.5469121 L11.5532164,30.9173525 C14.4493459,27.5164076 17.833452,24.702097 22.6880522,24.5536582 C27.99507,24.7283887 32.1253643,27.575564 35.7173527,30.6725107 C31.3638584,26.2938421 27.4326935,21.9157213 23.0786522,17.5376004 C22.630611,17.0506557 22.4314816,17.2609895 22.1355227,17.5469121 Z" id="Combined-Shape" fill="url(#radialGradient-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,220 @@
+.page-not-found-section {
+  min-height: auto;
+  padding: 140px 100px 70px 100px;
+}
+
+.page-not-found-section .content-max-width {
+  max-width: 685px;
+  margin: 0 auto;
+}
+
+.page-not-found-section .page-not-found-div .page-not-thumb img {
+  max-width: 280px;
+}
+
+.page-not-found-section .page-not-found-div .page-not-content {
+  min-height: auto;
+  margin: 0;
+  max-width: 900px;
+}
+
+.link-found-section {
+  background-color: #fafafa;
+  min-height: auto;
+}
+
+.link-found-section .link-found-div {
+  width: 100%;
+  position: relative;
+}
+
+.link-found-section .link-found-content-div {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.link-found-section .link-found-content-div .title-div {
+  margin: 0 0 20px 0;
+}
+
+.link-found-section .link-found-content-div .link-list-view-div ul {
+  background-color: #fff;
+  border: 1px solid #e4e4e4;
+  width: 100%;
+  padding: 40px 30px;
+  margin-bottom: 0;
+}
+
+.link-found-section .link-found-content-div .link-list-view-div ul li {
+  margin-bottom: 20px;
+  padding-left: 40px;
+  display: block;
+  position: relative;
+}
+
+.link-found-section .link-found-content-div .link-list-view-div ul li::before {
+  content: "\e912";
+  font-family: Feather !important;
+  font-style: normal;
+  font-weight: 400;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  position: absolute;
+  left: 2px;
+  color: #e7e7e7;
+  font-size: 22px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  height: 100%;
+}
+
+.link-found-section .link-found-content-div .link-list-view-div ul li a {
+  color: #666;
+  letter-spacing: 0;
+  display: block;
+  text-decoration: none;
+}
+
+.link-found-section .link-found-content-div .link-list-view-div ul li:hover a {
+  color: #ed5c37;
+}
+
+.link-found-section .link-found-content-div .link-list-view-div ul li:hover::before {
+  color: #ed5c37;
+}
+
+.thankyou-page-section .thankyou-page-div .thankyou-content {
+  max-width: 700px;
+  min-height: auto;
+}
+
+.thankyou-page-section .thankyou-page-div .thankyou-content h3 {
+  font-size: 48px;
+  line-height: 1.5;
+}
+
+.thankyou-page-section .thankyou-page-div .thankyou-content .content-max-width {
+  max-width: 680px;
+}
+
+section.page-not-found-section.thankyou-page-section {
+  padding-bottom: 10px;
+  padding-top: 150px;
+}
+
+@media screen and (max-width: 767px) {
+  .page-not-found-section {
+    min-height: auto;
+    padding: 140px 0 70px 0;
+  }
+
+  .page-not-found-section .page-not-found-div .page-not-content h3 {
+    padding: 0;
+    margin: 0 0 20px;
+    font-weight: 500;
+    font-size: 1.85rem;
+  }
+
+  .page-not-found-section .page-not-found-div .page-not-content {
+    max-width: 350px;
+  }
+  .thankyou-page-section .thankyou-page-div .thankyou-img {
+    max-width: 300px;
+  }
+  .thankyou-page-section .thankyou-page-div .thankyou-content h3 {
+    font-size: 32px;
+    line-height: 1.5;
+  }
+
+  .link-found-section {
+    min-height: auto;
+    padding: 0 15px 40px 15px;
+  }
+
+  .link-found-section .link-found-content-div .title-div h5 {
+    font-size: 1.5rem;
+    line-height: 2.4rem;
+  }
+
+  .link-found-section .link-found-content-div .link-list-view-div ul {
+    padding: 20px 15px 10px 15px;
+  }
+
+  .link-found-section .link-found-content-div .link-list-view-div ul li a {
+    font-size: 1rem;
+    line-height: 1.65rem;
+  }
+
+  section.page-not-found-section.thankyou-page-section {
+    padding: 150px 15px 30px 15px;
+  }
+
+  .thankyou-page-section .thankyou-page-div .thankyou-content h3 {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+
+  .thankyou-page-section .thankyou-page-div .thankyou-thumb {
+    margin: 0 0 20px 0;
+  }
+
+  .page-not-found-section .page-not-found-div .page-not-content .button-common-div {
+    margin-top: 30px !important;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .page-not-found-section {
+    min-height: auto !important;
+    padding: 130px 100px 70px 100px;
+  }
+
+  .thankyou-page-section .thankyou-page-div .thankyou-content .content-max-width {
+    max-width: 400px;
+  }
+
+  .thankyou-page-section .thankyou-page-div .thankyou-content h3 {
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+
+  .thankyou-page-section .thankyou-page-div .thankyou-thumb {
+    margin: 0 0 20px 0;
+  }
+
+  .thankyou-page-section .thankyou-page-div .thankyou-thumb img.thankyou-img {
+    max-width: 355px;
+    object-fit: contain;
+  }
+
+  section.page-not-found-section.thankyou-page-section {
+    padding: 130px 100px 10px 100px;
+  }
+
+  .page-not-found-section .page-not-found-div .page-not-content {
+    max-width: 580px;
+    min-height: auto;
+  }
+
+  .link-found-section {
+    min-height: auto !important;
+    padding-top: 40px;
+    padding-bottom: 0;
+  }
+
+  .link-found-section .link-found-content-div .title-div h5 {
+    font-size: 1.4rem;
+    line-height: 2.4rem;
+  }
+
+  .page-not-found-section .content-max-width {
+    max-width: 485px;
+    margin: 0 auto;
+  }
+}

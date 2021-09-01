@@ -1,0 +1,70 @@
+.contact-dev-section {
+  background: #ed5b38 url(../images/banner/conatct-us-shape.jpg) center;
+  background-size: 1400px;
+  background-repeat: no-repeat;
+
+  .contact-dev-root {
+    padding: var(--ptb-100) var(--plr-42);
+    margin: 0;
+    position: relative;
+  }
+
+  .header-common-center-div {
+    margin: 0;
+
+    .title-div {
+      h4 {
+        font-size: 30px;
+        color: #fff;
+        text-align: center;
+        margin: 0 0 10px 0;
+      }
+
+      h2 {
+        max-width: 750px;
+        margin: 0 auto 30px auto;
+      }
+    }
+
+    .banner-btn-div {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+
+      .btn.btn-custom-white {
+        min-width: 280px;
+        font-weight: 600;
+      }
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  .contact-dev-section {
+    .header-common-center-div {
+      .title-div {
+        h4 {
+          font-size: 18px;
+        }
+      }
+
+      .banner-btn-div {
+        .btn.btn-custom-white {
+          min-width: 250px;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  .contact-dev-section {
+    .header-common-center-div {
+      .title-div {
+        h4 {
+          font-size: 22px;
+        }
+      }
+    }
+  }
+}

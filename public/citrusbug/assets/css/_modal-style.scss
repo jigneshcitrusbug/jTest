@@ -1,0 +1,167 @@
+.modal-backdrop {
+  z-index: 9999;
+}
+
+.modal-custom {
+  z-index: 99999;
+  &.subscribe-newsletter-modal {
+    .modal-dialog {
+      max-width: 600px;
+
+      .modal-body {
+        background: #fbeae6;
+      }
+    }
+  }
+
+  .btn-close {
+    padding: 0;
+    margin: 0;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    flex-wrap: wrap;
+    opacity: 1;
+    background-size: 16px;
+    box-shadow: none;
+  }
+
+  .cancel-div {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  .subscribe-div {
+    padding: 34px 24px;
+    position: relative;
+
+    .heading-div {
+      padding: 0;
+      margin: 0 0 20px 0;
+      position: relative;
+
+      h3 {
+        font-weight: 600;
+        font-size: 30px;
+        color: #222;
+        letter-spacing: 0;
+        line-height: 1.4;
+        margin: 0 0 5px 0;
+      }
+    }
+
+    .subscribe-form-div {
+      max-width: 100%;
+      width: 100%;
+      margin: 0 auto;
+
+      .form-group {
+        display: flex;
+        align-items: flex-start;
+        flex-wrap: wrap;
+
+        .input-group-box {
+          width: calc(100% - 158px);
+
+          .form-control {
+            background: #fff;
+            border: 1px solid rgba(24, 24, 24, 0.5);
+            color: #181818;
+            border-radius: 5px;
+            min-height: 60px;
+            font-size: 18px;
+            font-weight: 400;
+            padding: 15px 20px;
+
+            &::-webkit-input-placeholder {
+              color: rgba(24, 24, 24, 0.7);
+            }
+
+            &::-moz-placeholder {
+              color: rgba(24, 24, 24, 0.7);
+            }
+
+            &:-ms-input-placeholder {
+              color: rgba(24, 24, 24, 0.7);
+            }
+
+            &:-moz-placeholder {
+              color: rgba(24, 24, 24, 0.7);
+            }
+
+            &:focus {
+              border-color: rgba(24, 24, 24, 1);
+              box-shadow: none;
+            }
+          }
+        }
+
+        .btn-div {
+          width: 158px;
+          padding: 0 0 0 10px;
+
+          .btn.btn-custom-primary {
+            padding: 5px 25px 3px 25px;
+            min-width: 148px;
+            outline: none;
+            box-shadow: none;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 767px) {
+  .modal-custom {
+    .btn-close {
+      width: 20px;
+      height: 20px;
+      background-size: 14px;
+    }
+
+    .subscribe-div {
+      padding: 24px 6px;
+
+      .heading-div {
+        h3 {
+          font-size: 20px;
+        }
+
+        p {
+          font-size: 14px;
+        }
+      }
+
+      .subscribe-form-div {
+        .form-group {
+          .input-group-box {
+            width: 100%;
+            margin: 0 0 10px 0;
+
+            .form-control {
+              min-height: 50px;
+              font-size: 16px;
+              padding: 10px 15px;
+            }
+          }
+
+          .btn-div {
+            width: 100%;
+            padding: 0;
+
+            .btn.btn-custom-primary {
+              width: 100%;
+              min-height: 50px;
+              font-size: 16px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

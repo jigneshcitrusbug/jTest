@@ -1,0 +1,100 @@
+.customizer .customizer-toggle {
+  top: auto;
+  bottom: 0;
+}
+
+.card {
+  font-size: 1.5rem;
+}
+
+.panel {
+  background-color: transparent;
+  margin-bottom: 20px;
+}
+
+.panel .btn-default {
+  background-color: transparent;
+  border: 1px solid;
+}
+
+.panel .panel-footer {
+  background-color: transparent;
+  padding: 15px;
+}
+
+.panel .input-group-btn {
+  border: 1px solid;
+}
+
+.panel-primary .panel-heading {
+  border-color: transparent;
+  background-color: transparent;
+  padding: 12px;
+}
+
+.panel-default > .panel-heading {
+  color: #333;
+  background-color: transparent;
+  border-color: #ddd;
+}
+
+body.layout-dark.layout-transparent .form-control select#target option {
+  background-color: rgba(0, 0, 0, 0.15) !important;
+  border-color: #FFFFFF !important;
+  color: #000 !important;
+}
+
+.popover {
+  background-color: #000;
+}
+
+.popover .btn-default {
+  background-color: #000;
+}
+
+body.layout-dark.layout-transparent div.phpdebugbar * {
+  color: #000 !important;
+}
+
+body.layout-transparent .cke_top,
+body.layout-transparent .cke_wysiwyg_frame,
+body.layout-transparent .cke_wysiwyg_div,
+body.layout-transparent .cke_bottom,
+body.layout-transparent .cke_dialog_contents,
+body.layout-transparent a.cke_dialog_ui_button {
+  border-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+body.layout-dark .cke_top,
+body.layout-dark .cke_wysiwyg_frame,
+body.layout-dark .cke_wysiwyg_div,
+body.layout-dark .cke_bottom,
+body.layout-dark .cke_dialog_contents,
+body.layout-dark a.cke_dialog_ui_button {
+  border-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.4) !important;
+}
+
+.row.buttons .col-sm-12 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+}
+
+.row.buttons .col-sm-12 .dt-buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-right: 15px;
+}
+/*# sourceMappingURL=custom.css.map */

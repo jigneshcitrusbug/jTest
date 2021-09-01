@@ -1,0 +1,130 @@
+.grecaptcha-badge{visibility:hidden}
+.error_msg{
+	display:none;
+}
+.form-group.error .form-control {
+    border-color: #dc3545;
+}
+.form-group.error .invalid-feedback {
+    display: block;
+}
+.loaderF{z-index:99999;position:absolute;background-color:#fff;width:100%;height:100%;display:none;position:fixed}.loaderF,.loaderF .wrapper{top:0;bottom:0;left:0;margin:auto}.loaderF .wrapper{width:150px;height:150px;position:absolute;right:0}.loaderF .wrapper:before{content:"";position:absolute;left:0;top:0;width:100%;height:100%;display:-webkit-box;display:flex;background-image:url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='56'%3E%3Cpath d='M.573 0c10.25 10.089 20.498 19.2 30.746 29.29 1.14 1.038.647 1.5-.022 2.186L0 56c7.961-6.712 14.549-14.554 14.9-25.8C14.491 17.9 7.826 8.329.577 0z' fill='%23ff4f23'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:50%;z-index:99}.loaderF .wrapper,.loaderF .wrapper *{box-sizing:border-box}.loaderF .wrapper .pie{width:50%;height:100%;-webkit-transform-origin:100% 50%;transform-origin:100% 50%;position:absolute;background:transparent;border:10px solid #ff4f23}.loaderF .wrapper .spinner{border-radius:100% 0 0 100%/50% 0 0 50%;z-index:0;border-right:none;-webkit-animation:rota 5s linear infinite}.loaderF .wrapper:hover .filler,.loaderF .wrapper:hover .mask,.loaderF .wrapper:hover .spinner{-webkit-animation-play-state:running;animation-play-state:running}.loaderF .wrapper .filler{border-radius:0 100% 100% 0/0 50% 50% 0;left:50%;opacity:0;-webkit-animation:opa 5s steps(1) infinite reverse;border-left:none}.loaderF .wrapper .mask{width:50%;height:100%;position:absolute;background:inherit;opacity:1;-webkit-animation:opa 5s steps(1) infinite}@-webkit-keyframes rota{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg);border-color:#ff4f23}to{-webkit-transform:rotate(1turn);transform:rotate(1turn);z-index:0}}@-webkit-keyframes opa{0%{opacity:1}50%,to{opacity:0}}
+
+.inner-banner-section.reactBanner{
+    background: #18A6CB;
+}
+.inner-banner-section.reactBanner .inner-banner-div{
+    background: #18A6CB url("../images/banner/react_bg.svg") no-repeat;
+    background-size: cover;
+}
+
+.pricing-dev-section.reactPricing{
+    background: #18A6CB url("../images/banner/react_bg.svg") no-repeat;
+    background-size: cover;
+}
+.inner-banner-section.angularBanner{
+    background: #787CB5;
+}
+.inner-banner-section.phpBanner .inner-banner-div{
+    background: #787CB5 url("../images/banner/php_bg.svg") no-repeat;
+    background-size: cover;
+}
+
+.pricing-dev-section.phpPricing{
+    background: #787CB5 url("../images/banner/php_bg.svg") no-repeat;
+    background-size: cover;
+}
+.inner-banner-section.angularBanner{
+    background: #a6120d;
+}
+.inner-banner-section.angularBanner .inner-banner-div{
+    background: #a6120d url("../images/banner/angular_bg.svg") no-repeat;
+    background-size: cover;
+}
+
+.pricing-dev-section.angularPricing{
+    background: #a6120d url("../images/banner/angular_bg.svg") no-repeat;
+    background-size: cover;
+}
+.pricing-dev-section.angularPricing .pricing-dev-root .pricing-card-bx-div .pricing-card-bx-inner{
+    background: #990425;
+}
+.pricing-dev-section.angularPricing .pricing-dev-root .pricing-card-bx-div.center-pricing-card-bx-div .pricing-card-bx-inner{
+    background: #fff;
+}
+.pricing-dev-section.angularPricing .btn.btn-yellow{
+    background: #000000;
+    color: #fff;
+}
+.inner-banner-section.vueBanner{
+    background: #42b883;
+}
+.inner-banner-section.vueBanner .inner-banner-div{
+    background: #42b883 url("../images/banner/vue_bg.svg") no-repeat;
+    background-size: cover;
+}
+
+.pricing-dev-section.vuePricing{
+    background: #42b883 url("../images/banner/vue_bg.svg") no-repeat;
+    background-size: cover;
+}
+.pricing-dev-section.vuePricing .pricing-dev-root .pricing-card-bx-div .pricing-card-bx-inner{
+    background: #299666;
+}
+.pricing-dev-section.vuePricing .pricing-dev-root .pricing-card-bx-div.center-pricing-card-bx-div .pricing-card-bx-inner{
+    background: #35495E;
+}
+.pricing-dev-section.vuePricing .btn.btn-yellow{
+    background: #35495E;
+    color: #fff;
+}
+.pricing-dev-section.vuePricing .pricing-dev-root .pricing-card-bx-div.center-pricing-card-bx-div .pricing-card-bx-inner .pricing-card-bx-top-div h5, .pricing-dev-section.vuePricing .pricing-dev-root .pricing-card-bx-div.center-pricing-card-bx-div .pricing-card-bx-inner .pricing-card-bx-top-div h6{
+    color: #fff;
+}
+.pricing-dev-section.vuePricing .pricing-dev-root .pricing-card-bx-div.center-pricing-card-bx-div .pricing-card-bx-inner .pricing-card-bx-top-div h3{
+    color: #fff;
+}
+.pricing-dev-section.vuePricing .pricing-dev-root .pricing-card-bx-div.center-pricing-card-bx-div .pricing-card-bx-inner .desc-div h4{
+    color: #fff;
+}
+.pricing-dev-section.vuePricing .pricing-dev-root .pricing-card-bx-div.center-pricing-card-bx-div .pricing-card-bx-inner .desc-div .list-group-desc li{
+    color: #fff;
+}
+.pricing-dev-section.vuePricing .pricing-dev-root .pricing-card-bx-div.center-pricing-card-bx-div .pricing-card-bx-inner .desc-div .list-group-desc li::before{
+    color: rgba(255, 255, 255, 0.8);
+}
+.pricing-dev-section.vuePricing .pricing-dev-root .pricing-card-bx-div.center-pricing-card-bx-div .pricing-card-bx-inner .desc-div p{
+    color: #fff;
+}
+.pricing-dev-section.phpPricing .pricing-dev-root .pricing-card-bx-div .pricing-card-bx-inner{
+    background: #3c4670;
+}
+.pricing-dev-section.phpPricing .pricing-dev-root .pricing-card-bx-div.center-pricing-card-bx-div .pricing-card-bx-inner{
+    background: #fff;
+}
+.pricing-dev-section.phpPricing .btn.btn-yellow{
+    background: #222222;
+    color: #fff;
+}
+.pricing-dev-section.reactPricing .pricing-dev-root .pricing-card-bx-div .pricing-card-bx-inner{
+    background: #007a9b;
+}
+.pricing-dev-section.reactPricing .pricing-dev-root .pricing-card-bx-div.center-pricing-card-bx-div .pricing-card-bx-inner{
+    background: #fff;
+}
+.pricing-dev-section.reactPricing .btn.btn-yellow{
+    background: #222222;
+    color: #fff;
+}
+.offer-sticky-top.vueSticky{
+    background: #42b883;
+}
+.offer-sticky-top.reactSticky{
+    background: #1fb2db;
+}
+.offer-sticky-top.phpSticky{
+    background: #787CB5;
+}
+.offer-sticky-top.angularSticky{
+    background: #a6120d;
+}

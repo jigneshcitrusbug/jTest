@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Black</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.3">
+        <g id="Artboard-Copy" transform="translate(-231.000000, -180.000000)" fill="#000000">
+            <path d="M251,180 C262.045695,180 271,188.954305 271,200 C271,211.045695 262.045695,220 251,220 C239.954305,220 231,211.045695 231,200 C231,188.954305 239.954305,180 251,180 Z M249.446268,194.622426 L240.62768,205.764459 C243.041121,202.930339 245.861209,200.58508 249.906709,200.461381 C254.329224,200.60699 257.771136,202.979636 260.764459,205.560425 C257.136548,201.911534 253.860577,198.2631 250.232209,194.614666 C249.858842,194.208879 249.692901,194.384157 249.446268,194.622426 Z" id="Black"></path>
+        </g>
+    </g>
+</svg>

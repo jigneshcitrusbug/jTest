@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="39px" viewBox="0 0 47 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo-icon</title>
+    <defs>
+        <path d="M32.1411826,-4.05009359e-13 C35.2665207,0.191926471 37.104203,2.63454412 35.992282,3.93927941 C32.1416391,7.32602941 25.059761,12.5358529 24.9433653,14.8804559 C24.8570956,16.6205588 32.9011779,21.6858676 36.5281585,25.3087647 C37.8272256,26.8852059 35.1414524,28.1347794 33.4808741,28.4228971 L33.4808741,28.4228971 L2.45863629,28.4224954 C1.16592167,28.3908982 0.346376237,27.8339211 -1.77635684e-13,26.7511765 L-1.77635684e-13,26.7511765 L-1.77635684e-13,3.34389706 C0.302172306,1.30473529 1.63866855,0.298602941 3.68266792,-4.05009359e-13 L3.68266792,-4.05009359e-13 Z M22.2187935,3.97392647 C18.5699032,7.60183824 14.9214693,10.8778088 11.2730354,14.5061765 C10.8672481,14.8795441 11.0425263,15.0454853 11.2807951,15.2921176 L22.4228283,24.1107059 C19.5887077,21.6972647 17.2434489,18.8771765 17.11975,14.8316765 C17.2653587,10.4091618 19.6380047,6.96725 22.2187935,3.97392647 Z" id="path-1"></path>
+        <filter x="-23.1%" y="-22.9%" width="146.1%" height="159.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.447058824   0 0 0 0 0.447058824   0 0 0 0 0.447058824  0 0 0 0.50551792 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(-16.000000, -22.000000)" fill-rule="nonzero">
+            <g id="Combined-Shape" transform="translate(21.000000, 25.000000)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FEFEFE" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

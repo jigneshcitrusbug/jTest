@@ -1,0 +1,275 @@
+@media screen and (max-width: 1600px) {
+  body {
+    font-size: 16px;
+  }
+  span {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+  p,
+  button,
+  a,
+  li {
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+  }
+  p span,
+  button span,
+  a span,
+  li span {
+    font-size: 100%;
+    line-height: 1.5;
+  }
+  .banner-section .banner-div .content-div h1 {
+    font-size: 2.625rem;
+    font-weight: 300;
+    line-height: 3.9375rem;
+  }
+  .banner-section .banner-div .content-div h1 span {
+    font-size: 2.625rem;
+    line-height: 3.9375rem;
+  }
+  .banner-section .banner-div .content-div h1 a {
+    font-size: 2.625rem;
+    line-height: 3.9375rem;
+  }
+  h1 {
+    font-size: 2.625rem;
+    line-height: 3.9375rem;
+  }
+  h1 span {
+    font-size: 100%;
+    line-height: 1.5;
+  }
+  h2 {
+    font-size: 2.625rem;
+    line-height: 3.9375rem;
+  }
+  h2 span,
+  h2 a {
+    font-size: 100%;
+    line-height: 1.5;
+  }
+  h3 {
+    font-size: 2.625rem;
+    line-height: 3.9375rem;
+  }
+  h3 span,
+  h3 a {
+    font-size: 100%;
+    line-height: 1.5;
+  }
+  h5 {
+    font-size: 1.7rem;
+    line-height: 2.55rem;
+  }
+  .technology-box {
+    font-size: 1.875rem;
+    line-height: 2.8125rem;
+  }
+  .ourtechnology-section .our-technology-listing .technology-box a .hover-description p {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+  .sub-heading {
+    font-size: 1.5rem;
+    line-height: 1.8rem;
+  }
+  .project-container-main .project-two .project-content-two h2 {
+    font-style: normal;
+  }
+  .ourtechnology-section .our-technology-listing .technology-box a .hover-description h3 {
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+  }
+  .project-container-main .owl-dot:before {
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+  }
+  .testimonial-section .testimonial-inner .testimonial-content h3 {
+    font-size: 1.7rem;
+    line-height: 2.55rem;
+  }
+  .testimonial-section .testimonial-inner .testimonial-img .owner-info h3 {
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+  }
+  .testimonial-section .testimonial-inner .testimonial-img .owner-info p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .welcome-menu ul li a {
+    font-size: 4.5rem;
+    line-height: 7rem;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-technolgy ul li .cb-content h3 {
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .welcome-menu.cb-menu-list ul li a.welcome-link {
+    font-size: 2.875rem;
+    line-height: 4.3125rem;
+  }
+  .project-form .project-inner .form-heaeding h3 {
+    font-size: 1.5rem;
+    line-height: 1.8rem;
+  }
+  .project-view-section .project-view-div .heading-section h2 a {
+    font-size: 2.625rem;
+    line-height: 3.9375rem;
+  }
+  .inner-page .scope-of-work-section .scope-of-work-inner .scope-of-work-heading h2 a {
+    font-size: 2.625rem;
+    line-height: 3.9375rem;
+  }
+  .service-details-div .heading-div h2 {
+    font-size: 2.5rem;
+    line-height: 3.75rem;
+  }
+  .career-link-section .card h2.card-title {
+    font-size: 1.7rem;
+    line-height: 2.55rem;
+  }
+  .career-link-section .card h2.card-title a {
+    font-size: 1.7rem;
+    line-height: 2.55rem;
+  }
+  .career-link-section .card h3.card-subtitle {
+    font-size: 1.3rem;
+    line-height: 1.95rem;
+  }
+  .career-link-section .card .card-body .job-info span {
+    font-size: 1.5rem;
+    line-height: 1.8rem;
+  }
+  .career-form .form-heaeding h3 {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+  .blog-listing-section .blog-listing-inner .blog-lisiting-all.blog-lisiting .blog-item .blog-content .blog-title h3 {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+  .blog-listing-section
+.blog-listing-inner
+.blog-lisiting-all.blog-lisiting
+.blog-item
+.blog-content
+.blog-info
+span {
+    font-size: 1.5rem;
+    line-height: 1.8rem;
+  }
+  .blog-listing-section .blog-listing-inner .blog-lisiting-all.blog-lisiting .blog-item .blog-content .blog-detaile {
+    font-size: 1.5rem;
+    line-height: 1.8rem;
+  }
+  .blog-detail-section .blog-subtitle h2 {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+  .blog-detail-section .blog-detail-info h2 {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+  .blog-detail-section .blog-detail-info h2 strong {
+    font-weight: 600;
+  }
+  .blog-detail-section .blog-detail-info h3 {
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+  .blog-detail-section .blog-detail-info h4 {
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+  }
+  .blog-detail-section .blog-detail-info h5 {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+  .blog-listing-section .blog-listing-inner .blog-lisiting-all .blog-item .blog-footer a h3 {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+  .sitemap-section .sitemap-inner .sitemap-box h3 {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+  .career-details-section .career-details-div .content-div-root h2 {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+  .project-view-section .project-view-div .heading-section h2 {
+    font-size: 2.625rem;
+  }
+  .recent-post-section .blog-listing-inner .blog-lisiting-all .blog-item .blog-footer a h3 {
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+  }
+  .recent-post-section .blog-listing-inner .blog-lisiting-all .blog-item .blog-footer .blog-info {
+    font-size: 1.25rem;
+  }
+  .inner-page .menubar-header .header-div .header-work-text a span {
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+  }
+  .services-box-section .services-box-div .content-div h3 {
+    font-size: 1.375rem;
+    line-height: 1.2;
+  }
+  .services-box-section .services-box-div .content-div h2 {
+    font-size: 2.625rem;
+    line-height: 1.2;
+  }
+  .services-box-section .services-box-div .content-div span.number-span {
+    font-size: 10rem;
+    line-height: 1.2;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-work ul li .work-item .work-number span {
+    font-size: 3.75rem;
+    line-height: 5.625rem;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-work ul li.active .work-content h3 {
+    font-size: 1.43rem;
+    line-height: 2.15625rem;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-work ul li.active .work-content p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-work ul li.active .work-arrow {
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-technolgy ul li .cb-content h3 {
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-technolgy ul li .cb-content p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-service ul li .cb-content h3 {
+    font-size: 1.5rem;
+    line-height: 2.25rem;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-service ul li .cb-content p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+  }
+  .scope-of-work-inner .scope-of-work-grid-listing .title h4 {
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+  }
+  .scope-of-work-inner .scope-of-work-grid-listing .dec p {
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .welcome-menu.cb-menu-list ul li a.welcome-link span {
+    display: none;
+  }
+  .cb-menu-conatiner .cb-menu-inner-welcome .cb-menu-option .cb-submenu-2 ul li {
+    max-width: 260px;
+  }
+}
+/*# sourceMappingURL=1600.css.map */
